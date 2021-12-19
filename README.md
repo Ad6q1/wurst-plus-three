@@ -31,7 +31,6 @@ Nitro boosts capes will be given ASAP.
 the usual suspects are here, [phobos](https://github.com/Hqrion/Phobos-1.9.0-BUILDABLE-SRC), [gamesense](https://github.com/IUDevman/gamesense-client), some [xulu](https://github.com/Elementars/Xulu-v1.5.2), and other misc stuff. if you want better credit dm me on discord travis#0001
 
 Also the old gui is using [panel studio](https://github.com/lukflug/PanelStudio/)
-
 ## Why
 
 Got bored pt. 3, began work as a project for my friends to pvp, turned into this
